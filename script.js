@@ -12,7 +12,7 @@ const currentScore0 = document.getElementById('current--0');
 const currentScore1 = document.getElementById('current--1');
 const player0 = document.getElementById('name--0');
 const player1 = document.getElementById('name--1');
-const maxScore = 10;
+const maxScore = 100;
 
 let activePlayer = 0;
 let currentScore = 0;
